@@ -1,5 +1,7 @@
 # 🔐 Zama DApp with FHEVM & Hardhat by Hieuwb
 
+Link: (http://37.27.224.233:3000/)
+
 This project is a **Fully Homomorphic Encryption (FHE)**-enabled smart contract DApp built with **Hardhat** and **FHEVM** by [Zama](https://www.zama.ai).
 
 > ✨ Example contract: `FHECounter.sol`  
