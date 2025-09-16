@@ -1,6 +1,7 @@
 # 🔐 Zama DApp with FHEVM & Hardhat by Hieuwb
 
-**Link: https://zamaswap.namada-hieuwb.xyz/**
+**Link: https://zama-dapp-swap.vercel.app/**
+Contract: 0x2703Cd19A583256e08BB4D9c56d7377a7D74F806
 
 This project is a **Fully Homomorphic Encryption (FHE)**-enabled smart contract DApp built with **Hardhat** and **FHEVM** by [Zama](https://www.zama.ai).
 
